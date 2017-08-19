@@ -48,7 +48,9 @@ Driving
 Have a motor rotating the steering wheel and a spring for the pedals. How to
 find enough power? How?
 
-I could also directly use CAN but it needs insights from DACIA.
+~~I could also directly use CAN but it needs insights from DACIA.~~
+Transmission is mechanical. I have no other choice but to turn the steering
+wheel.
 
 Computing: Laptop in the car? High-end smartphone?
 
